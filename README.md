@@ -1,13 +1,23 @@
-# skylv-code-reviewer
+# Code Reviewer
 
-code reviewer - OpenClaw Skill
+> code reviewer - OpenClaw Skill
 
 ## Install
-```
+
+```bash
 openclaw skills install skylv-code-reviewer
 ```
 
-## Description
-An OpenClaw skill for code reviewer.
+Or from ClawHub:
 
-MIT License © SKY-lv
+```
+https://clawhub.ai/skylv-code-reviewer
+```
+
+## About
+
+This skill is part of the [SKY-lv OpenClaw Skills Collection](https://github.com/SKY-lv/awesome-openclaw-skills).
+
+## License
+
+MIT © SKY-lv
