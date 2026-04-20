@@ -1,8 +1,8 @@
 ---
 name: "Code Reviewer"
 slug: skylv-code-reviewer
-version: 1.0.0
-description: "Code Review AI Assistant. Automated code review, find potential issues and improvement suggestions. Triggers: code review, review code, code quality, code analysis."
+version: 1.0.2
+description: Code review assistant. Analyzes code quality, detects bugs and security issues, and suggests improvements. Triggers: code review, security audit, code quality, bug detection.
 author: SKY-lv
 license: MIT-0
 tags: [openclaw, agent, code]
